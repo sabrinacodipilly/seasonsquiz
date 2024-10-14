@@ -1,5 +1,5 @@
 #Girls Who Code Self-Paced Summer Program
-#Personality Quiz
+Personality Quiz
 
 Project Requirements
 Your project should:
